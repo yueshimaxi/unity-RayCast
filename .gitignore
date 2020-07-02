@@ -1,0 +1,13 @@
+Build
+Library
+Temp
+UnityPackageManager
+obj
+.idea
+.vs
+.svn
+*.csproj
+*.booproj
+*.unityproj
+*.sln
+*.userprefs
